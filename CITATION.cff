@@ -1,0 +1,73 @@
+cff-version: 1.2.0
+title: "Massive Agent Repo — 1005 Claude Code Subagents (Aggregation)"
+message: >-
+  This is an AGGREGATION. If you use any agent from this repository, please
+  cite the original upstream project listed in the references below — not
+  this aggregation. All credit for the agent definitions belongs to the
+  upstream authors.
+type: dataset
+authors:
+  - name: "nedzreclassified (aggregator only)"
+    affiliation: "Aggregator — does not claim authorship of any agent"
+references:
+  - type: software
+    title: claude-plugins-official
+    authors:
+      - name: Anthropic
+    url: https://github.com/anthropics/claude-plugins-official
+  - type: software
+    title: awesome-claude-code-subagents
+    authors:
+      - name: VoltAgent
+    url: https://github.com/VoltAgent/awesome-claude-code-subagents
+  - type: software
+    title: agents
+    authors:
+      - name: wshobson
+    url: https://github.com/wshobson/agents
+  - type: software
+    title: claude-code-subagents-collection
+    authors:
+      - name: davepoon
+    url: https://github.com/davepoon/claude-code-subagents-collection
+  - type: software
+    title: claude-code-subagents
+    authors:
+      - name: 0xfurai
+    url: https://github.com/0xfurai/claude-code-subagents
+  - type: software
+    title: awesome-claude-agents
+    authors:
+      - name: vijaythecoder
+    url: https://github.com/vijaythecoder/awesome-claude-agents
+  - type: software
+    title: sub-agents
+    authors:
+      - name: webdevtodayjason
+    url: https://github.com/webdevtodayjason/sub-agents
+  - type: software
+    title: claude-sub-agent
+    authors:
+      - name: zhsama
+    url: https://github.com/zhsama/claude-sub-agent
+  - type: software
+    title: claude-agents
+    authors:
+      - given-names: Ian
+        family-names: Nuttall
+    url: https://github.com/iannuttall/claude-agents
+  - type: software
+    title: claude-code-sub-agents
+    authors:
+      - given-names: Charles
+        family-names: Adedotun
+    url: https://github.com/charles-adedotun/claude-code-sub-agents
+keywords:
+  - claude-code
+  - subagents
+  - aggregation
+  - attribution
+  - awesome-list
+  - llm-agents
+repository: "https://github.com/nedzreclassified/massive-agent-repo-1003"
+license: MIT

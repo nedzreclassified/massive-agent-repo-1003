@@ -1,0 +1,70 @@
+================================================================================
+NOTICE
+================================================================================
+
+This repository is an AGGREGATION of Claude Code subagents from 10 separate
+open-source projects. No original engineering work was done by the aggregator.
+ALL CREDIT for the agent definitions in this repo belongs to the authors of
+the upstream projects listed below.
+
+Each agent file retains the license of its source project. Please consult the
+upstream repository for the canonical version, latest updates, and license
+terms.
+
+If you find any agent in this collection useful, PLEASE STAR THE UPSTREAM
+REPOSITORY — that is where the actual engineering work was done.
+
+UPSTREAM SOURCES (full credit to these authors):
+
+  Anthropic
+    https://github.com/anthropics/claude-plugins-official
+    (folder: anthropic-official/)
+
+  VoltAgent
+    https://github.com/VoltAgent/awesome-claude-code-subagents
+    (folder: voltagent/)
+
+  wshobson
+    https://github.com/wshobson/agents
+    (folder: wshobson/)
+
+  davepoon
+    https://github.com/davepoon/claude-code-subagents-collection
+    (folder: davepoon/)
+
+  0xfurai
+    https://github.com/0xfurai/claude-code-subagents
+    (folder: zerox-furai/)
+
+  vijaythecoder
+    https://github.com/vijaythecoder/awesome-claude-agents
+    (folder: vijaythecoder/)
+
+  webdevtodayjason
+    https://github.com/webdevtodayjason/sub-agents
+    (folder: webdevtodayjason/)
+
+  zhsama
+    https://github.com/zhsama/claude-sub-agent
+    (folder: zhsama/)
+
+  Ian Nuttall (iannuttall)
+    https://github.com/iannuttall/claude-agents
+    (folder: iannuttall/)
+
+  Charles Adedotun (charles-adedotun)
+    https://github.com/charles-adedotun/claude-code-sub-agents
+    (folder: charles-adedotun/)
+
+ALSO ACKNOWLEDGED (curated directories that pointed to the above sources):
+
+  hesreallyhim — https://github.com/hesreallyhim/awesome-claude-code
+  rahulvrane   — https://github.com/rahulvrane/awesome-claude-agents
+
+REMOVAL REQUESTS:
+
+If you are an author of any of the above projects and wish your files removed
+from this aggregation, please open an issue on this repository and the files
+will be removed immediately.
+
+================================================================================
